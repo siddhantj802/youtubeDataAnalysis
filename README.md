@@ -1,0 +1,5 @@
+--->This is a Data Analysis project using Python. 
+--->Libraries used are Pandas and Seaborn.
+--->Data is fetched using Google's YouTube Api(https://developers.google.com/youtube/v3).
+---> channelIds are fetched from Channel's Homepage source_view.
+---> All the visualisation are done in seaborn.
